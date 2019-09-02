@@ -144,10 +144,10 @@ android {
     }
     signingConfigs {
         debug {
-            storeFile file('note.jsk')
-            storePassword '1234567890'
+            storeFile file('noterizal.jks')
+            storePassword 'rizal12'
             keyAlias 'note'
-            keyPassword 'note'
+            keyPassword 'rizal12'
         }
     }
     buildTypes {

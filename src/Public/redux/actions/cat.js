@@ -1,7 +1,7 @@
 import axios from "axios";
 
-let URL = "http://192.168.100.42:3343";
-// let URL = 'https://kuymusik.herokuapp.com';
+// let URL = "http://192.168.100.42:3343";
+let URL = 'https://noteaja.herokuapp.com';
 
 export const catALL = () => {
   return {
